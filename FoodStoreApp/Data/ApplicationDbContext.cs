@@ -8,5 +8,6 @@ namespace FoodStoreApp.Data
         {
         }
         public DbSet<Models.Category> Category { get; set; }
+        public DbSet<Models.Manufacturer> Manufacturer { get; set; }
     }
 }

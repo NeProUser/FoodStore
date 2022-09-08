@@ -8,53 +8,69 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FoodStoreApp
 build_property.RootNamespace = FoodStoreApp
-build_property.ProjectDir = C:\Users\323\Desktop\FoodStore-master\FoodStoreApp\
+build_property.ProjectDir = C:\Users\323\Desktop\1\FoodStore-master\FoodStoreApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\323\Desktop\FoodStore-master\FoodStoreApp
+build_property.MSBuildProjectDirectory = C:\Users\323\Desktop\1\FoodStore-master\FoodStoreApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/323/Desktop/FoodStore-master/FoodStoreApp/Views/Category/Create.cshtml]
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/323/Desktop/FoodStore-master/FoodStoreApp/Views/Category/DeletePost.cshtml]
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/Category/DeletePost.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlUG9zdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/323/Desktop/FoodStore-master/FoodStoreApp/Views/Category/Edit.cshtml]
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/Category/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/323/Desktop/FoodStore-master/FoodStoreApp/Views/Category/Index.cshtml]
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/323/Desktop/FoodStore-master/FoodStoreApp/Views/Home/Index.cshtml]
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/323/Desktop/FoodStore-master/FoodStoreApp/Views/Home/Privacy.cshtml]
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/323/Desktop/FoodStore-master/FoodStoreApp/Views/Shared/Error.cshtml]
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/Manufacturer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudWZhY3R1cmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/Manufacturer/DeletePost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudWZhY3R1cmVyXERlbGV0ZVBvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/Manufacturer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudWZhY3R1cmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/Manufacturer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudWZhY3R1cmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/323/Desktop/FoodStore-master/FoodStoreApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/323/Desktop/FoodStore-master/FoodStoreApp/Views/_ViewImports.cshtml]
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/323/Desktop/FoodStore-master/FoodStoreApp/Views/_ViewStart.cshtml]
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/323/Desktop/FoodStore-master/FoodStoreApp/Views/Shared/_Layout.cshtml]
+[C:/Users/323/Desktop/1/FoodStore-master/FoodStoreApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-v8ahrzzzs6
